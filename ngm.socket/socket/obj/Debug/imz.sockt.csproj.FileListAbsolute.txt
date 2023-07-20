@@ -1,0 +1,27 @@
+T:\imz6\Programacion Avanzada C#\imz.sockt\imz.sockt\bin\Debug\imz.sockt.exe.config
+T:\imz6\Programacion Avanzada C#\imz.sockt\imz.sockt\bin\Debug\imz.sockt.exe
+T:\imz6\Programacion Avanzada C#\imz.sockt\imz.sockt\bin\Debug\imz.sockt.pdb
+T:\imz6\Programacion Avanzada C#\imz.sockt\imz.sockt\obj\Debug\imz.sockt.csproj.AssemblyReference.cache
+T:\imz6\Programacion Avanzada C#\imz.sockt\imz.sockt\obj\Debug\imz.sockt.csproj.SuggestedBindingRedirects.cache
+T:\imz6\Programacion Avanzada C#\imz.sockt\imz.sockt\obj\Debug\imz.sockt.csproj.CoreCompileInputs.cache
+T:\imz6\Programacion Avanzada C#\imz.sockt\imz.sockt\obj\Debug\imz.sockt.exe
+T:\imz6\Programacion Avanzada C#\imz.sockt\imz.sockt\obj\Debug\imz.sockt.pdb
+D:\Agustin Muñoz\2023 - Aplicaciones Avanzadas C#\imz.sockt\imz.sockt\bin\Debug\imz.sockt.exe.config
+D:\Agustin Muñoz\2023 - Aplicaciones Avanzadas C#\imz.sockt\imz.sockt\bin\Debug\imz.sockt.exe
+D:\Agustin Muñoz\2023 - Aplicaciones Avanzadas C#\imz.sockt\imz.sockt\bin\Debug\imz.sockt.pdb
+D:\Agustin Muñoz\2023 - Aplicaciones Avanzadas C#\imz.sockt\imz.sockt\obj\Debug\imz.sockt.csproj.AssemblyReference.cache
+D:\Agustin Muñoz\2023 - Aplicaciones Avanzadas C#\imz.sockt\imz.sockt\obj\Debug\imz.sockt.csproj.SuggestedBindingRedirects.cache
+D:\Agustin Muñoz\2023 - Aplicaciones Avanzadas C#\imz.sockt\imz.sockt\obj\Debug\imz.sockt.csproj.CoreCompileInputs.cache
+D:\Agustin Muñoz\2023 - Aplicaciones Avanzadas C#\imz.sockt\imz.sockt\obj\Debug\imz.sockt.exe
+D:\Agustin Muñoz\2023 - Aplicaciones Avanzadas C#\imz.sockt\imz.sockt\obj\Debug\imz.sockt.pdb
+C:\Users\laboratorio2\Source\Repos\socketServidor\imz.sockt\imz.sockt\bin\Debug\imz.sockt.exe.config
+C:\Users\laboratorio2\Source\Repos\socketServidor\imz.sockt\imz.sockt\bin\Debug\imz.sockt.exe
+C:\Users\laboratorio2\Source\Repos\socketServidor\imz.sockt\imz.sockt\bin\Debug\imz.sockt.pdb
+C:\Users\laboratorio2\Source\Repos\socketServidor\imz.sockt\imz.sockt\obj\Debug\imz.sockt.csproj.AssemblyReference.cache
+C:\Users\laboratorio2\Source\Repos\socketServidor\imz.sockt\imz.sockt\obj\Debug\imz.sockt.csproj.SuggestedBindingRedirects.cache
+C:\Users\laboratorio2\Source\Repos\socketServidor\imz.sockt\imz.sockt\obj\Debug\imz.sockt.csproj.CoreCompileInputs.cache
+C:\Users\laboratorio2\Source\Repos\socketServidor\imz.sockt\imz.sockt\obj\Debug\imz.sockt.exe
+C:\Users\laboratorio2\Source\Repos\socketServidor\imz.sockt\imz.sockt\obj\Debug\imz.sockt.pdb
+C:\Users\laboratorio2\Source\Repos\socketServidor\imz.sockt\imz.sockt\bin\Debug\ServidorSocketUtils.dll
+C:\Users\laboratorio2\Source\Repos\socketServidor\imz.sockt\imz.sockt\bin\Debug\ServidorSocketUtils.pdb
+C:\Users\laboratorio2\Source\Repos\socketServidor\imz.sockt\imz.sockt\obj\Debug\imz.sockt.csproj.CopyComplete

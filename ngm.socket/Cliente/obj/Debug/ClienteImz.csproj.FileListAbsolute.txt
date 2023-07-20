@@ -1,0 +1,27 @@
+T:\imz6\Programacion Avanzada C#\imz.sockt\ClienteImz\bin\Debug\ClienteImz.exe.config
+T:\imz6\Programacion Avanzada C#\imz.sockt\ClienteImz\bin\Debug\ClienteImz.exe
+T:\imz6\Programacion Avanzada C#\imz.sockt\ClienteImz\bin\Debug\ClienteImz.pdb
+T:\imz6\Programacion Avanzada C#\imz.sockt\ClienteImz\obj\Debug\ClienteImz.csproj.AssemblyReference.cache
+T:\imz6\Programacion Avanzada C#\imz.sockt\ClienteImz\obj\Debug\ClienteImz.csproj.SuggestedBindingRedirects.cache
+T:\imz6\Programacion Avanzada C#\imz.sockt\ClienteImz\obj\Debug\ClienteImz.csproj.CoreCompileInputs.cache
+T:\imz6\Programacion Avanzada C#\imz.sockt\ClienteImz\obj\Debug\ClienteImz.exe
+T:\imz6\Programacion Avanzada C#\imz.sockt\ClienteImz\obj\Debug\ClienteImz.pdb
+D:\Agustin Muñoz\2023 - Aplicaciones Avanzadas C#\imz.sockt\ClienteImz\bin\Debug\ClienteImz.exe.config
+D:\Agustin Muñoz\2023 - Aplicaciones Avanzadas C#\imz.sockt\ClienteImz\bin\Debug\ClienteImz.exe
+D:\Agustin Muñoz\2023 - Aplicaciones Avanzadas C#\imz.sockt\ClienteImz\bin\Debug\ClienteImz.pdb
+D:\Agustin Muñoz\2023 - Aplicaciones Avanzadas C#\imz.sockt\ClienteImz\obj\Debug\ClienteImz.csproj.AssemblyReference.cache
+D:\Agustin Muñoz\2023 - Aplicaciones Avanzadas C#\imz.sockt\ClienteImz\obj\Debug\ClienteImz.csproj.SuggestedBindingRedirects.cache
+D:\Agustin Muñoz\2023 - Aplicaciones Avanzadas C#\imz.sockt\ClienteImz\obj\Debug\ClienteImz.csproj.CoreCompileInputs.cache
+D:\Agustin Muñoz\2023 - Aplicaciones Avanzadas C#\imz.sockt\ClienteImz\obj\Debug\ClienteImz.exe
+D:\Agustin Muñoz\2023 - Aplicaciones Avanzadas C#\imz.sockt\ClienteImz\obj\Debug\ClienteImz.pdb
+C:\Users\laboratorio2\Source\Repos\socketServidor\imz.sockt\ClienteImz\bin\Debug\ClienteImz.exe.config
+C:\Users\laboratorio2\Source\Repos\socketServidor\imz.sockt\ClienteImz\bin\Debug\ClienteImz.exe
+C:\Users\laboratorio2\Source\Repos\socketServidor\imz.sockt\ClienteImz\bin\Debug\ClienteImz.pdb
+C:\Users\laboratorio2\Source\Repos\socketServidor\imz.sockt\ClienteImz\obj\Debug\ClienteImz.csproj.AssemblyReference.cache
+C:\Users\laboratorio2\Source\Repos\socketServidor\imz.sockt\ClienteImz\obj\Debug\ClienteImz.csproj.SuggestedBindingRedirects.cache
+C:\Users\laboratorio2\Source\Repos\socketServidor\imz.sockt\ClienteImz\obj\Debug\ClienteImz.csproj.CoreCompileInputs.cache
+C:\Users\laboratorio2\Source\Repos\socketServidor\imz.sockt\ClienteImz\obj\Debug\ClienteImz.exe
+C:\Users\laboratorio2\Source\Repos\socketServidor\imz.sockt\ClienteImz\obj\Debug\ClienteImz.pdb
+C:\Users\laboratorio2\Source\Repos\socketServidor\imz.sockt\ClienteImz\bin\Debug\ClienteSocketUtils.dll
+C:\Users\laboratorio2\Source\Repos\socketServidor\imz.sockt\ClienteImz\bin\Debug\ClienteSocketUtils.pdb
+C:\Users\laboratorio2\Source\Repos\socketServidor\imz.sockt\ClienteImz\obj\Debug\ClienteImz.csproj.CopyComplete

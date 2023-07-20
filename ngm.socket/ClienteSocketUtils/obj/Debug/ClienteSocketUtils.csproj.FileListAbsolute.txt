@@ -1,0 +1,6 @@
+C:\Users\laboratorio2\Source\Repos\socketServidor\imz.sockt\ClienteSocketUtils\bin\Debug\ClienteSocketUtils.dll
+C:\Users\laboratorio2\Source\Repos\socketServidor\imz.sockt\ClienteSocketUtils\bin\Debug\ClienteSocketUtils.pdb
+C:\Users\laboratorio2\Source\Repos\socketServidor\imz.sockt\ClienteSocketUtils\obj\Debug\ClienteSocketUtils.csproj.AssemblyReference.cache
+C:\Users\laboratorio2\Source\Repos\socketServidor\imz.sockt\ClienteSocketUtils\obj\Debug\ClienteSocketUtils.csproj.CoreCompileInputs.cache
+C:\Users\laboratorio2\Source\Repos\socketServidor\imz.sockt\ClienteSocketUtils\obj\Debug\ClienteSocketUtils.dll
+C:\Users\laboratorio2\Source\Repos\socketServidor\imz.sockt\ClienteSocketUtils\obj\Debug\ClienteSocketUtils.pdb
